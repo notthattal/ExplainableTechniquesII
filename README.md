@@ -4,3 +4,12 @@ This notebook demonstrates how to use PDP, Ice Plots and Ale Plots to generate g
 The dataset is designed to predict whether or not a patient has diabetes. All patients surveyed in this dataset are females at least 21 years old of Pima Indian heritage.
 
 ### Example Plots
+
+#### PDP
+![PDP Plot](./img/PDP_Example.png)
+
+#### ICE
+![ICE Plot](./img/ICE_Example.png)
+
+#### ALE
+![ALE Plot](./img/ALE_Example.png)
